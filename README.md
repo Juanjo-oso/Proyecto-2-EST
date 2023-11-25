@@ -3,6 +3,8 @@ Entrega segundo Proyecto Estructura de Datos Juan José Osorio Osorio
 
 Descripción del Proyecto: Tienda de Sneakers
 
+[![Captura-de-pantalla-192.png](https://i.postimg.cc/Hk39b023/Captura-de-pantalla-192.png)](https://postimg.cc/18nFQqbN)
+
 Lenguaje de Programación:
 El proyecto está implementado en Java.
 
@@ -36,6 +38,8 @@ Permite seleccionar una imagen para asociarla al sneaker mediante un cuadro de d
 Visualización de Resultados:
 Los resultados de las operaciones (búsqueda, agregación, eliminación) se muestran en un área de texto en la interfaz gráfica.
 Se muestra la imagen del sneaker cuando está disponible.
+
+[![Captura-de-pantalla-191.png](https://i.postimg.cc/Znrrn6n8/Captura-de-pantalla-191.png)](https://postimg.cc/64p712dq)
 
 Notas Adicionales:
 La aplicación utiliza un árbol binario de búsqueda para gestionar el inventario de sneakers.
